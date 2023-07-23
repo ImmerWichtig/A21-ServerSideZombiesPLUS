@@ -9702,4 +9702,5240 @@
 		zombieScorcherPLUS, .5
 	</csv>
 
+	<!-- *** Added custom zombies in sleepers POI -->
+	<!-- Chances are a tenth of that of hordenight for all zombies. No animal, flying zombies and demolisher added to sleeper. -->
+
+    <csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS704']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
+		zombieBatonHazmatPLUS, .025
+		zombieSteelAxeLumberjackPLUS, .025
+		zombieMachetePartyGirlPLUS, .025
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .025
+		zombieSniperBoePLUS, .025
+		zombieChainsawMoePLUS, .025
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
+		zombieBatonFatCopPLUS, .025
+		zombieSteelClubFemaleFatPLUS, .025
+		zombieBoltNursePLUS, .025
+		zombieSteelSledgehammerFatHawaiianPLUS, .025
+		zombieWightRadiationShowerPLUS, .02
+		zombieBogeymanPLUS, .02
+		zombieCrispyPLUS, .02
+		zombieScorcherPLUS, .02
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS715']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
+		zombieBatonHazmatPLUS, .025
+		zombieSteelAxeLumberjackPLUS, .025
+		zombieMachetePartyGirlPLUS, .025
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .025
+		zombieSniperBoePLUS, .025
+		zombieChainsawMoePLUS, .025
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
+		zombieBatonFatCopPLUS, .025
+		zombieSteelClubFemaleFatPLUS, .025
+		zombieBoltNursePLUS, .025
+		zombieSteelSledgehammerFatHawaiianPLUS, .025
+		zombieWightRadiationShowerPLUS, .02
+		zombieBogeymanPLUS, .02
+		zombieCrispyPLUS, .02
+		zombieScorcherPLUS, .02
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS726']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
+		zombieBatonHazmatPLUS, .025
+		zombieSteelAxeLumberjackPLUS, .025
+		zombieMachetePartyGirlPLUS, .025
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .025
+		zombieSniperBoePLUS, .025
+		zombieChainsawMoePLUS, .025
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
+		zombieBatonFatCopPLUS, .025
+		zombieSteelClubFemaleFatPLUS, .025
+		zombieBoltNursePLUS, .025
+		zombieSteelSledgehammerFatHawaiianPLUS, .025
+		zombieWightRadiationShowerPLUS, .02
+		zombieBogeymanPLUS, .02
+		zombieCrispyPLUS, .02
+		zombieScorcherPLUS, .02
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS736']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
+		zombieBatonHazmatPLUS, .025
+		zombieSteelAxeLumberjackPLUS, .025
+		zombieMachetePartyGirlPLUS, .025
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .025
+		zombieSniperBoePLUS, .025
+		zombieChainsawMoePLUS, .025
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
+		zombieBatonFatCopPLUS, .025
+		zombieSteelClubFemaleFatPLUS, .025
+		zombieBoltNursePLUS, .025
+		zombieSteelSledgehammerFatHawaiianPLUS, .025
+		zombieWightRadiationShowerPLUS, .02
+		zombieBogeymanPLUS, .02
+		zombieCrispyPLUS, .02
+		zombieScorcherPLUS, .02
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS747']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
+		zombieBatonHazmatPLUS, .025
+		zombieSteelAxeLumberjackPLUS, .025
+		zombieMachetePartyGirlPLUS, .025
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .025
+		zombieSniperBoePLUS, .025
+		zombieChainsawMoePLUS, .025
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
+		zombieBatonFatCopPLUS, .025
+		zombieSteelClubFemaleFatPLUS, .025
+		zombieBoltNursePLUS, .025
+		zombieSteelSledgehammerFatHawaiianPLUS, .025
+		zombieWightRadiationShowerPLUS, .02
+		zombieBogeymanPLUS, .02
+		zombieCrispyPLUS, .02
+		zombieScorcherPLUS, .02
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS758']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
+		zombieBatonHazmatPLUS, .025
+		zombieSteelAxeLumberjackPLUS, .025
+		zombieMachetePartyGirlPLUS, .025
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .025
+		zombieSniperBoePLUS, .025
+		zombieChainsawMoePLUS, .025
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
+		zombieBatonFatCopPLUS, .025
+		zombieSteelClubFemaleFatPLUS, .025
+		zombieBoltNursePLUS, .025
+		zombieSteelSledgehammerFatHawaiianPLUS, .025
+		zombieWightRadiationShowerPLUS, .02
+		zombieBogeymanPLUS, .02
+		zombieCrispyPLUS, .02
+		zombieScorcherPLUS, .02
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS769']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
+		zombieBatonHazmatPLUS, .025
+		zombieSteelAxeLumberjackPLUS, .025
+		zombieMachetePartyGirlPLUS, .025
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .025
+		zombieSniperBoePLUS, .025
+		zombieChainsawMoePLUS, .025
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
+		zombieBatonFatCopPLUS, .025
+		zombieSteelClubFemaleFatPLUS, .025
+		zombieBoltNursePLUS, .025
+		zombieSteelSledgehammerFatHawaiianPLUS, .025
+		zombieWightRadiationShowerPLUS, .02
+		zombieBogeymanPLUS, .02
+		zombieCrispyPLUS, .02
+		zombieScorcherPLUS, .02
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS780']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
+		zombieBatonHazmatPLUS, .025
+		zombieSteelAxeLumberjackPLUS, .025
+		zombieMachetePartyGirlPLUS, .025
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .025
+		zombieSniperBoePLUS, .025
+		zombieChainsawMoePLUS, .025
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
+		zombieBatonFatCopPLUS, .025
+		zombieSteelClubFemaleFatPLUS, .025
+		zombieBoltNursePLUS, .025
+		zombieSteelSledgehammerFatHawaiianPLUS, .025
+
+		zombieWightRadiationShowerPLUS, .02
+		zombieBogeymanPLUS, .02
+		zombieCrispyPLUS, .02
+		zombieScorcherPLUS, .02
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS791']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .025
+		zombieTARifleSoldierPLUS, .025
+		zombieBatonHazmatPLUS, .025
+		zombieSteelAxeLumberjackPLUS, .025
+		zombieMachetePartyGirlPLUS, .025
+		zombiePistolBusinessManPLUS, .025
+		zombieNailgunUtilityWorkerPLUS, .025
+		zombieSniperBoePLUS, .025
+		zombieChainsawMoePLUS, .025
+		zombieDesertVultureTomClarkPLUS, .025
+		zombiePumpShotgunBikerPLUS, .025
+		zombieBatonFatCopPLUS, .025
+		zombieSteelClubFemaleFatPLUS, .025
+		zombieBoltNursePLUS, .025
+		zombieSteelSledgehammerFatHawaiianPLUS, .025
+
+		zombieWightRadiationShowerPLUS, .02
+		zombieBogeymanPLUS, .02
+		zombieCrispyPLUS, .02
+		zombieScorcherPLUS, .02
+	</csv>
+<!-- Increase in probabilities for GS 800 -->	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS802']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS813']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS824']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS836']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS847']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS858']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS870']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS881']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS893']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS904']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS916']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS927']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS939']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS951']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS962']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS974']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS986']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS998']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0275
+		zombieTARifleSoldierPLUS, .0275
+		zombieBatonHazmatPLUS, .0275
+		zombieSteelAxeLumberjackPLUS, .0275
+		zombieMachetePartyGirlPLUS, .0275
+		zombiePistolBusinessManPLUS, .0275
+		zombieNailgunUtilityWorkerPLUS, .0275
+		zombieSniperBoePLUS, .0275
+		zombieChainsawMoePLUS, .0275
+		zombieDesertVultureTomClarkPLUS, .0275
+		zombiePumpShotgunBikerPLUS, .0275
+		zombieBatonFatCopPLUS, .0275
+		zombieSteelClubFemaleFatPLUS, .0275
+		zombieBoltNursePLUS, .0275
+		zombieSteelSledgehammerFatHawaiianPLUS, .0275
+
+		zombieWightRadiationShowerPLUS, .0225
+		zombieBogeymanPLUS, .0225
+		zombieCrispyPLUS, .0225
+		zombieScorcherPLUS, .0225
+	</csv>
+<!-- Increase in probabilities for GS 1000 -->	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1010']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1022']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1034']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1046']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1058']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1070']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1082']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1094']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1106']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1119']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1131']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1143']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1156']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1168']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1181']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1193']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1206']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1218']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1231']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1244']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1256']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1269']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1282']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1295']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1308']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1321']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1334']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1347']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1360']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1373']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1386']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1399']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1412']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1425']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1439']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1452']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1465']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1479']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1492']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .03
+		zombieTARifleSoldierPLUS, .03
+		zombieBatonHazmatPLUS, .03
+		zombieSteelAxeLumberjackPLUS, .03
+		zombieMachetePartyGirlPLUS, .03
+		zombiePistolBusinessManPLUS, .03
+		zombieNailgunUtilityWorkerPLUS, .03
+		zombieSniperBoePLUS, .03
+		zombieChainsawMoePLUS, .03
+		zombieDesertVultureTomClarkPLUS, .03
+		zombiePumpShotgunBikerPLUS, .03
+		zombieBatonFatCopPLUS, .03
+		zombieSteelClubFemaleFatPLUS, .03
+		zombieBoltNursePLUS, .03
+		zombieSteelSledgehammerFatHawaiianPLUS, .03
+
+		zombieWightRadiationShowerPLUS, .025
+		zombieBogeymanPLUS, .025
+		zombieCrispyPLUS, .025
+		zombieScorcherPLUS, .025
+	</csv>
+<!-- Increase in probabilities for GS 1500 -->	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1506']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1519']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1533']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1546']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1560']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1573']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1587']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1601']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1614']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1628']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1642']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1656']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1670']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1684']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1698']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1712']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1726']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1740']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1754']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1768']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1782']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1796']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1811']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1825']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1839']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1853']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1868']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1882']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1897']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1911']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1926']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1940']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1955']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1969']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1984']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS1999']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .035
+		zombieTARifleSoldierPLUS, .035
+		zombieBatonHazmatPLUS, .035
+		zombieSteelAxeLumberjackPLUS, .035
+		zombieMachetePartyGirlPLUS, .035
+		zombiePistolBusinessManPLUS, .035
+		zombieNailgunUtilityWorkerPLUS, .035
+		zombieSniperBoePLUS, .035
+		zombieChainsawMoePLUS, .035
+		zombieDesertVultureTomClarkPLUS, .035
+		zombiePumpShotgunBikerPLUS, .035
+		zombieBatonFatCopPLUS, .035
+		zombieSteelClubFemaleFatPLUS, .035
+		zombieBoltNursePLUS, .035
+		zombieSteelSledgehammerFatHawaiianPLUS, .035
+
+		zombieWightRadiationShowerPLUS, .03
+		zombieBogeymanPLUS, .03
+		zombieCrispyPLUS, .03
+		zombieScorcherPLUS, .03
+	</csv>
+<!-- Increase in probabilities for GS 2000 -->	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2013']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2028']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2043']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2058']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2073']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2087']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2102']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2117']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2132']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2147']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2162']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2177']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2192']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2207']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2223']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2238']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2253']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2268']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2284']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2299']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2314']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2330']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2345']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2360']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2376']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2391']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2407']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2423']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2438']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2454']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2469']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2485']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0375
+		zombieTARifleSoldierPLUS, .0375
+		zombieBatonHazmatPLUS, .0375
+		zombieSteelAxeLumberjackPLUS, .0375
+		zombieMachetePartyGirlPLUS, .0375
+		zombiePistolBusinessManPLUS, .0375
+		zombieNailgunUtilityWorkerPLUS, .0375
+		zombieSniperBoePLUS, .0375
+		zombieChainsawMoePLUS, .0375
+		zombieDesertVultureTomClarkPLUS, .0375
+		zombiePumpShotgunBikerPLUS, .0375
+		zombieBatonFatCopPLUS, .0375
+		zombieSteelClubFemaleFatPLUS, .0375
+		zombieBoltNursePLUS, .0375
+		zombieSteelSledgehammerFatHawaiianPLUS, .0375
+
+		zombieWightRadiationShowerPLUS, .0325
+		zombieBogeymanPLUS, .0325
+		zombieCrispyPLUS, .0325
+		zombieScorcherPLUS, .0325
+	</csv>
+<!-- Increase in probabilities for GS 2500 -->	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2501']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2517']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2532']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2548']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2564']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2580']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2596']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2612']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2628']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2644']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2660']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2676']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2692']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2708']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2724']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2740']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2756']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2772']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2789']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2805']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2821']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2838']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2854']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2870']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2887']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2903']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2920']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2936']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2953']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2969']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS2986']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .04
+		zombieTARifleSoldierPLUS, .04
+		zombieBatonHazmatPLUS, .04
+		zombieSteelAxeLumberjackPLUS, .04
+		zombieMachetePartyGirlPLUS, .04
+		zombiePistolBusinessManPLUS, .04
+		zombieNailgunUtilityWorkerPLUS, .04
+		zombieSniperBoePLUS, .04
+		zombieChainsawMoePLUS, .04
+		zombieDesertVultureTomClarkPLUS, .04
+		zombiePumpShotgunBikerPLUS, .04
+		zombieBatonFatCopPLUS, .04
+		zombieSteelClubFemaleFatPLUS, .04
+		zombieBoltNursePLUS, .04
+		zombieSteelSledgehammerFatHawaiianPLUS, .04
+
+		zombieWightRadiationShowerPLUS, .035
+		zombieBogeymanPLUS, .035
+		zombieCrispyPLUS, .035
+		zombieScorcherPLUS, .035
+	</csv>
+<!-- Increase in probabilities for GS 3000 -->	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3003']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3019']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3036']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3053']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3069']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3086']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3103']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3120']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3136']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3153']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3170']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3187']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3204']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3221']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3238']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3255']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3272']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3289']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3306']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3324']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3341']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3358']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3375']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3392']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3410']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3427']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3444']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3462']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3479']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3496']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .0425
+		zombieTARifleSoldierPLUS, .0425
+		zombieBatonHazmatPLUS, .0425
+		zombieSteelAxeLumberjackPLUS, .0425
+		zombieMachetePartyGirlPLUS, .0425
+		zombiePistolBusinessManPLUS, .0425
+		zombieNailgunUtilityWorkerPLUS, .0425
+		zombieSniperBoePLUS, .0425
+		zombieChainsawMoePLUS, .0425
+		zombieDesertVultureTomClarkPLUS, .0425
+		zombiePumpShotgunBikerPLUS, .0425
+		zombieBatonFatCopPLUS, .0425
+		zombieSteelClubFemaleFatPLUS, .0425
+		zombieBoltNursePLUS, .0425
+		zombieSteelSledgehammerFatHawaiianPLUS, .0425
+
+		zombieWightRadiationShowerPLUS, .0375
+		zombieBogeymanPLUS, .0375
+		zombieCrispyPLUS, .0375
+		zombieScorcherPLUS, .0375
+	</csv>
+<!-- Increase in probabilities for GS 3500 -->	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3514']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3531']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3549']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3566']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3584']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3601']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3619']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3637']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3654']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3672']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3690']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3707']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3725']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3743']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3761']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3779']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3796']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3814']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3832']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3850']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3868']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3886']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3904']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3922']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3940']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3958']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3976']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS3995']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .045
+		zombieTARifleSoldierPLUS, .045
+		zombieBatonHazmatPLUS, .045
+		zombieSteelAxeLumberjackPLUS, .045
+		zombieMachetePartyGirlPLUS, .045
+		zombiePistolBusinessManPLUS, .045
+		zombieNailgunUtilityWorkerPLUS, .045
+		zombieSniperBoePLUS, .045
+		zombieChainsawMoePLUS, .045
+		zombieDesertVultureTomClarkPLUS, .045
+		zombiePumpShotgunBikerPLUS, .045
+		zombieBatonFatCopPLUS, .045
+		zombieSteelClubFemaleFatPLUS, .045
+		zombieBoltNursePLUS, .045
+		zombieSteelSledgehammerFatHawaiianPLUS, .045
+
+		zombieWightRadiationShowerPLUS, .04
+		zombieBogeymanPLUS, .04
+		zombieCrispyPLUS, .04
+		zombieScorcherPLUS, .04
+	</csv>
+<!-- Increase in probabilities for GS 4000 -->	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS4013']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .05
+		zombieTARifleSoldierPLUS, .05
+		zombieBatonHazmatPLUS, .05
+		zombieSteelAxeLumberjackPLUS, .05
+		zombieMachetePartyGirlPLUS, .05
+		zombiePistolBusinessManPLUS, .05
+		zombieNailgunUtilityWorkerPLUS, .05
+		zombieSniperBoePLUS, .05
+		zombieChainsawMoePLUS, .05
+		zombieDesertVultureTomClarkPLUS, .05
+		zombiePumpShotgunBikerPLUS, .05
+		zombieBatonFatCopPLUS, .05
+		zombieSteelClubFemaleFatPLUS, .05
+		zombieBoltNursePLUS, .05
+		zombieSteelSledgehammerFatHawaiianPLUS, .05
+
+		zombieWightRadiationShowerPLUS, .05
+		zombieBogeymanPLUS, .05
+		zombieCrispyPLUS, .05
+		zombieScorcherPLUS, .05
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS4031']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .05
+		zombieTARifleSoldierPLUS, .05
+		zombieBatonHazmatPLUS, .05
+		zombieSteelAxeLumberjackPLUS, .05
+		zombieMachetePartyGirlPLUS, .05
+		zombiePistolBusinessManPLUS, .05
+		zombieNailgunUtilityWorkerPLUS, .05
+		zombieSniperBoePLUS, .05
+		zombieChainsawMoePLUS, .05
+		zombieDesertVultureTomClarkPLUS, .05
+		zombiePumpShotgunBikerPLUS, .05
+		zombieBatonFatCopPLUS, .05
+		zombieSteelClubFemaleFatPLUS, .05
+		zombieBoltNursePLUS, .05
+		zombieSteelSledgehammerFatHawaiianPLUS, .05
+
+		zombieWightRadiationShowerPLUS, .05
+		zombieBogeymanPLUS, .05
+		zombieCrispyPLUS, .05
+		zombieScorcherPLUS, .05
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS4049']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .05
+		zombieTARifleSoldierPLUS, .05
+		zombieBatonHazmatPLUS, .05
+		zombieSteelAxeLumberjackPLUS, .05
+		zombieMachetePartyGirlPLUS, .05
+		zombiePistolBusinessManPLUS, .05
+		zombieNailgunUtilityWorkerPLUS, .05
+		zombieSniperBoePLUS, .05
+		zombieChainsawMoePLUS, .05
+		zombieDesertVultureTomClarkPLUS, .05
+		zombiePumpShotgunBikerPLUS, .05
+		zombieBatonFatCopPLUS, .05
+		zombieSteelClubFemaleFatPLUS, .05
+		zombieBoltNursePLUS, .05
+		zombieSteelSledgehammerFatHawaiianPLUS, .05
+
+		zombieWightRadiationShowerPLUS, .05
+		zombieBogeymanPLUS, .05
+		zombieCrispyPLUS, .05
+		zombieScorcherPLUS, .05
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS4067']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .05
+		zombieTARifleSoldierPLUS, .05
+		zombieBatonHazmatPLUS, .05
+		zombieSteelAxeLumberjackPLUS, .05
+		zombieMachetePartyGirlPLUS, .05
+		zombiePistolBusinessManPLUS, .05
+		zombieNailgunUtilityWorkerPLUS, .05
+		zombieSniperBoePLUS, .05
+		zombieChainsawMoePLUS, .05
+		zombieDesertVultureTomClarkPLUS, .05
+		zombiePumpShotgunBikerPLUS, .05
+		zombieBatonFatCopPLUS, .05
+		zombieSteelClubFemaleFatPLUS, .05
+		zombieBoltNursePLUS, .05
+		zombieSteelSledgehammerFatHawaiianPLUS, .05
+
+		zombieWightRadiationShowerPLUS, .05
+		zombieBogeymanPLUS, .05
+		zombieCrispyPLUS, .05
+		zombieScorcherPLUS, .05
+	</csv>
+	
+	<csv xpath="/entitygroups/entitygroup[@name='sleeperHordeStageGS4086']/text()" delim="\n" op="add" >
+		zombieSMGArlenePLUS, .05
+		zombieTARifleSoldierPLUS, .05
+		zombieBatonHazmatPLUS, .05
+		zombieSteelAxeLumberjackPLUS, .05
+		zombieMachetePartyGirlPLUS, .05
+		zombiePistolBusinessManPLUS, .05
+		zombieNailgunUtilityWorkerPLUS, .05
+		zombieSniperBoePLUS, .05
+		zombieChainsawMoePLUS, .05
+		zombieDesertVultureTomClarkPLUS, .05
+		zombiePumpShotgunBikerPLUS, .05
+		zombieBatonFatCopPLUS, .05
+		zombieSteelClubFemaleFatPLUS, .05
+		zombieBoltNursePLUS, .05
+		zombieSteelSledgehammerFatHawaiianPLUS, .05
+
+		zombieWightRadiationShowerPLUS, .05
+		zombieBogeymanPLUS, .05
+		zombieCrispyPLUS, .05
+		zombieScorcherPLUS, .05
+	</csv>
 </configs>
